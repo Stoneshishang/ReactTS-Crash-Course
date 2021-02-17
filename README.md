@@ -1,3 +1,7 @@
+This is an introduction of TypeScript with React.
+
+https://www.youtube.com/watch?v=e5c_RfYqIhU&ab_channel=MaksimIvanov
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
